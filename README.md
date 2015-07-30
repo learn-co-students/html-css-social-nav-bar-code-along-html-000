@@ -1,9 +1,4 @@
----
-language: css
-tags: css, sprite, image, rollover
-type: code along
-resources: 0
----
+
 
 ## Code Along Exercise 6 ~ 14min
 
