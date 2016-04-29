@@ -22,8 +22,24 @@ Building upon previous code alongs, in this exercise you will add rollover icons
 
 Lets start out by making a new feature branch in Terminal by typing `git checkout -b social-icons` and press return. 
 
-...
+Next, open the index.html page in your code editor. Let's add some new class names to our links in the `<div id="social">` element.
 
+```html
+<div id="social">
+  <a class="twit" href="#" title="Twitter">Twitter</a>
+  <a class="fbook" href="#" title="Facebook">Facebook</a>
+  <a class="gplus" href="#" title="Google Plus">Google Plus</a>
+</div>
+```
+
+Save the index page and open the style.css file in your code editor. Then scroll down to the comment in the code labeled "SOCIAL" and remove the yellow background color and apply the new sprite background image.
+
+```css
+/*////////// SOCIAL //////////*/
+
+
+
+```
 
 
 
