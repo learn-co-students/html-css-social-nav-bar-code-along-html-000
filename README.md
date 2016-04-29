@@ -110,4 +110,4 @@ After you finish, make sure you install Firefox if you haven't already as it is 
 
 After all tests are passing submit a pull request on Github and move on to the next lesson!
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-code-along-ex-6' title='Code Along Exercise 6'>Code Along Exercise 6</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-code-along-ex-6' title='Social Nav Bar Code Along Code Along'>Social Nav Bar Code Along Code Along</a> on Learn.co and start learning to code for free.</p>
