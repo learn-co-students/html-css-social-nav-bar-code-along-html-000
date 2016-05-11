@@ -80,7 +80,7 @@ Now we need to add hover state and active states for each icon to reposition the
   height: 40px;
   text-indent: 100%;
   white-space: no-wrap;
-  overflow hidden;
+  overflow: hidden;
 }
 
 a.fbook, a.twit, a.gplus {
