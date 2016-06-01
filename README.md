@@ -1,4 +1,4 @@
-# Social Nav Bar Code Along Code Along
+# Social Nav Bar Code Along
 
 ## Objectives
 
@@ -106,10 +106,5 @@ Save the CSS page and refresh in the browser and you should have functional soci
 
 It's now time to version our changes using Git. To do so, in Terminal type `git add .` and press return. Then type `git commit -m "finish social icons"` and press return. Then push up this feature branch `git push -u origin social-icons` and press return. Next merge the changes into your master branch. Type `git checkout master` and press return, then `git merge social-icons` and press return. Then `git push origin master` and press return.
 
-After you finish, make sure you install Firefox if you haven't already as it is required for the screenshot tests to run. Then, type learn command from Terminal to run local tests (Mac) or type learn-test for Windows.
-
-After all tests are passing submit a pull request on Github and move on to the next lesson!
-
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-code-along-ex-6' title='Social Nav Bar Code Along Code Along'>Social Nav Bar Code Along Code Along</a> on Learn.co and start learning to code for free.</p>
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/fe-code-along-ex-6'>Social Nav Bar Code Along</a> on Learn.co and start learning to code for free.</p>
