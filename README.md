@@ -59,7 +59,7 @@ a.fbook, a.twit, a.gplus {
 }
 ```
 
-We removed the yellow background color we had added in the orevious code along. Also on line 8 in the code snippet above we updated the z-index to 2 to match the z-index of the fixed navbar we adjusted in the previous code along. Then on the links we set `text-indent: 100%;` on line 15 to push the text inside of the social links outside of its width. Then on line 16 we added `white-space: no-wrap;` to prevent the text from wrapping inside the element, and on line 17 we added `overflow hidden;` so the text indented outside the element would not appear. All of these wrok together to hide the text inside the links. Why do this? Well, the text is helpful for search engines. Although we do not really need our site visitors to see the text becuasethey will be seeing icons instead.
+We removed the yellow background color we had added in the orevious code along. Also on line 8 in the code snippet above we updated the z-index to 2 to match the z-index of the fixed navbar we adjusted in the previous code along. Then on the links we set `text-indent: 100%;` on line 15 to push the text inside of the social links outside of its width. Then on line 16 we added `white-space: no-wrap;` to prevent the text from wrapping inside the element, and on line 17 we added `overflow hidden;` so the text indented outside the element would not appear. All of these work together to hide the text inside the links. Why do this? Well, the text is helpful for search engines. Although we do not really need our site visitors to see the text because they will be seeing icons instead.
 
 Now we need to add hover state and active states for each icon to reposition the background image one hover and click like so:
 
@@ -100,7 +100,7 @@ a.gplus:hover { background-position: -40px -80px; }
 a.gplus:active { background-position: -80px -80px; }
 ```
 
-For background-position remember the first value is the horizontal positioning and the second value is the vertical positioning. We cange the numbers to reposition the image during different link states. For more details on this refer back to the previous lecture video on image sprites and rollovers.
+For background-position remember the first value is the horizontal positioning and the second value is the vertical positioning. We change the numbers to reposition the image during different link states. For more details on this refer back to the previous lecture video on image sprites and rollovers.
 
 Save the CSS page and refresh in the browser and you should have functional social icons. Hurray!
 
@@ -108,3 +108,5 @@ It's now time to version our changes using Git. To do so, in Terminal type `git 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-code-along-ex-6' title='Social Nav Bar Code Along Code Along'>Social Nav Bar Code Along Code Along</a> on Learn.co and start learning to code for free.</p>
 
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/html-css-social-nav-bar-code-along'>Social Nav Bar Code-Along</a> on Learn.co and start learning to code for free.</p>
