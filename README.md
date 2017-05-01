@@ -20,7 +20,7 @@ Building upon previous code alongs, in this exercise you will add rollover icons
 
 ### Building A Social Nav Bar
 
-Lets start out by making a new feature branch in Terminal by typing `git checkout -b social-icons` and press return. 
+Lets start out by making a new feature branch in Terminal by typing `git checkout -b social-icons` and press return.
 
 Next, open the index.html page in your code editor. Let's add some new class names to our links in the `<div id="social">` element.
 
@@ -32,7 +32,7 @@ Next, open the index.html page in your code editor. Let's add some new class nam
 </div>
 ```
 
-Save the index page, then open the style.css file in your code editor. Then scroll down to the comment in the code labeled "SOCIAL" and update the following code. 
+Save the index page, then open the style.css file in your code editor. Then scroll down to the comment in the code labeled "SOCIAL" and update the following code.
 
 ```css
 /*////////// SOCIAL //////////*/
